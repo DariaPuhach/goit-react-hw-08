@@ -1,0 +1,17 @@
+.formContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+    padding: 12px 8px;
+    max-width: 280px;
+    border: 1px solid white;
+    border-radius: 8px;
+    margin-bottom: 20px;
+  }
+  
+  .button {
+    border-radius: 4px;
+    max-width: 80px;
+  }
